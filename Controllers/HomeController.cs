@@ -93,7 +93,7 @@ namespace DisplayUsersWebApp.Controllers
                         UsersList.AccessLevels[user.accessLevel.licenseDisplayName] += 1;
 
                 }
-                UsersList.AccessLevels.OrderBy(x => x.Key);
+                /*UsersList.AccessLevels.OrderBy(x => x.Key);*/
                 return Json(UsersList, JsonRequestBehavior.AllowGet);
             }
             catch (Exception E)

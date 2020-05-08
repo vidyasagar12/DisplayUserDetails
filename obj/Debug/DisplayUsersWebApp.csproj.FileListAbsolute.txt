@@ -85,3 +85,4 @@ D:\DisplayUsersWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 D:\DisplayUsersWebApp\obj\Debug\DisplayUsersWebApp.csproj.CopyComplete
 D:\DisplayUsersWebApp\obj\Debug\DisplayUsersWebApp.dll
 D:\DisplayUsersWebApp\obj\Debug\DisplayUsersWebApp.pdb
+D:\DisplayUsersWebApp\obj\Debug\DisplayUsersWebApp.csprojAssemblyReference.cache
